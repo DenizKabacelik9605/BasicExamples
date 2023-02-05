@@ -1,0 +1,15 @@
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\bin\Debug\net7.0\dataexamples.exe
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\bin\Debug\net7.0\dataexamples.deps.json
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\bin\Debug\net7.0\dataexamples.runtimeconfig.json
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\bin\Debug\net7.0\dataexamples.dll
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\bin\Debug\net7.0\dataexamples.pdb
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\dataexamples.csproj.AssemblyReference.cache
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\dataexamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\dataexamples.AssemblyInfoInputs.cache
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\dataexamples.AssemblyInfo.cs
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\dataexamples.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\dataexamples.dll
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\refint\dataexamples.dll
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\dataexamples.pdb
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\dataexamples.genruntimeconfig.cache
+C:\Users\Deniz\Desktop\DenizWorks\DenizBasicExamples\csharp\OtherExamples\dataexamples\obj\Debug\net7.0\ref\dataexamples.dll
